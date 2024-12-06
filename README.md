@@ -22,6 +22,8 @@ This project reimagines Tic-Tac-Toe as a frustratingly overengineered monstrosit
 - **Variable Chaos**: Every variable name is a minor variation of a ridiculously long sentence, ensuring maximum confusion.
 - **No Line Breaks**: Logic and functionality are crammed into dense blocks of code.
 - **Randomized Aesthetics**: Button colors and window dimensions change unpredictably, reflecting life's inherent disorder.
+- **Unnecessary Global Variables**: Every single variable is global, because why not?
+- **Nested Conditionals**: Every if statement contains more if statements for no good reason. It's like Russian dolls, but with bugs!
 
 Despite its chaotic nature, the game is fully functional. If you win, it’s a triumph over entropy itself.
 
@@ -33,6 +35,7 @@ Despite its chaotic nature, the game is fully functional. If you win, it’s a t
 - **Monolithic Code**: Functions are written in long, dense, line-break-free chunks to overwhelm any sense of structure.
 - **Randomization**: Colors, dimensions, and weights are randomized, creating a disorienting visual experience.
 - **Dramatic Labels**: Messages are styled with bold, random fonts and dynamic colors for added chaos.
+- **Code Redundancy**: Because who doesn't love writing the same logic multiple times with zero improvements?
 
 ---
 
@@ -85,12 +88,17 @@ Visual elements are designed to **evoke disorientation**:
 - **Randomized Colors**: Buttons and labels change color unpredictably.
 - **Dynamic Font Styles**: Fonts alternate between bold and italic based on random conditions.
 - **Chaotic Layout**: Buttons have random padding and alignment, making every game unique.
+- **Overbearing Sounds**: Random beeps and clicks at maximum volume to test your tolerance.
 
 ## Known Issues
 
 1. **Unbearable Complexity**: The code is a challenge to read, debug, or maintain.
 2. **Visual Overload**: The random colors and fonts may overwhelm sensitive users.
 3. **Overengineering**: For a game as simple as Tic-Tac-Toe, this implementation is absurdly convoluted.
+4. **Completely Unnecessary Logic**: Nested loops where they are absolutely not needed. Several “recursive” functions that go nowhere.
+5. **Unmanageable File Size**: Don’t ask why it's over 500 lines for a simple Tic-Tac-Toe game.
+6. **Unnecessary External Dependencies**: Multiple unnecessary libraries included, just in case you wanted to import something completely unrelated.
+7. **Theoretical Bugs**: Bugs that only exist in quantum states. Sometimes the game works, sometimes it doesn’t—who knows why?
 
 ## Disclaimer
 
