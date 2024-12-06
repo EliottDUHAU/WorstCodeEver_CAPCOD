@@ -76,7 +76,7 @@ Wherever possible, code has been **compressed into a single, continuous block**,
 
 **Example:**
 ```python
-root_of_suffering = tk.Tk(); root_of_suffering.title(f"TIC TAC TOE: SUFFERING EDITION v{uuid.uuid4()}"); root_of_suffering.geometry(f"{380 + random.randint(0, 69)}x{520 + random.randint(0, 42)}"); root_of_suffering.configure(bg='#' + ''.join([random.choice('0123456789ABCDEF') for _ in range(6)]))
+            pain_button.grid(row=this_is_a_horrifyingly_long_variable_name_that_is_designed_to_make_the_code_completely_unreadable_and_utterly_painful_to_comprehend_even_for_the_most_patience_testing_of_programmers_cosmic_suffering_index // 3, column=this_is_a_horrifyingly_long_variable_name_that_is_designed_to_make_the_code_completely_unreadable_and_utterly_painful_to_comprehend_even_for_the_most_patience_testing_of_programmers_cosmic_suffering_index % 3, padx=this_is_a_horrifyingly_long_variable_name_that_is_designed_to_make_the_code_completely_unreadable_and_utterly_painful_to_comprehend_even_for_the_most_patience_testing_of_programmers_cosmic_suffering_index, pady=this_is_a_horrifyingly_long_variable_name_that_is_designed_to_make_the_code_completely_unreadable_and_utterly_painful_to_comprehend_even_for_the_most_patience_testing_of_programmers_cosmic_suffering_index, sticky="nsew" * (this_is_a_horrifyingly_long_variable_name_that_is_designed_to_make_the_code_completely_unreadable_and_utterly_painful_to_comprehend_even_for_the_most_patience_testing_of_programmers_cosmic_suffering_index + 1))
 ```
 
 ### Aesthetic Anarchy
